@@ -50,7 +50,7 @@ export default function Home() {
         <h2 className="text-3xl font-bold text-center">Learn more about us</h2>
 
 
-        <video className=" rotate-270"
+        <video className=" w-[55vw] md:w-auto rotate-270"
           controls
           src="/Spidermanvideo.mp4"></video>
 
