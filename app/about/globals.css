@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.logo span {
+    font-size: 25px;
+}
+
+video {
+    width: 25vw;
+    transform: rotate(270deg);
+}
+
+.btn {
+    border: 1px solid #000000;
+    border-radius: 8px;
+}
+
+
+.margin{
+    margin-bottom: 10vh;
+}
+
+.widht{
+    width: 110px;
+    height: 110px;
+}
+
+.margintop{
+    margin-top: 60px;
+}
